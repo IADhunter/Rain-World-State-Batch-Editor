@@ -1,6 +1,7 @@
 # Rain-World-State-Batch-Editor
 
 ![Interface Preview](UI.png)
+background image official art by Del Northern edited :)
 
 **RWSBE** is a tool designed for the bulk editing of Rain World room configuration files (`settings.txt`).
 
