@@ -100,4 +100,5 @@ def process_line_by_line(input_lines, rules_main, rules_fade, decal_mult, light_
         if new_lines and not new_lines[-1].endswith('\n'): new_lines[-1] += '\n'
         new_lines.append(f"FadePalette: {f_a_target}, {f_a_opacity}\n")
 
+
     return new_lines
