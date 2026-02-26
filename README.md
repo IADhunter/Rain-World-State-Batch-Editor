@@ -1,5 +1,7 @@
 # Rain-World-State-Batch-Editor
 
+![Interface Preview](UI.png)
+
 **RWSBE** is a tool designed for the bulk editing of Rain World room configuration files (`settings.txt`).
 
 This tool was born from a real technical need: to facilitate the implementation of multiple regional states for a mod currently under development, which allows handling several states for the same room using suffixes (e.g., `su_73_settings_1.txt`, `_2.txt`, etc.). Instead of manually editing hundreds of files for each state, RWSBE automates the process in seconds.
